@@ -330,7 +330,7 @@
             "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wp7673457-2000x750.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/b6b1f76402808f1efe0d473b691f7510.gif",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -346,7 +346,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/kindpng-266037-716x492.png",
+              "src": "@PROJECT_PATH@/assets/images/linear-onibus-png-1024x525.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -1054,8 +1054,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2022118-142352022-1-5-16-43-44.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=QDbliOSMxTw&ab_channel=CVCViagens",
-                "image": "@PROJECT_PATH@/assets/images/dkc29wnsohc-hd-1280x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dkc29wnsohc-hd-1280x720-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aviso-1920x1080-800x450.png",
+                "thumb": "@PROJECT_PATH@/assets/images/aviso-1920x1080-800x450-800x450.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
